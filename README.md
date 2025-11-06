@@ -18,7 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=efecan035&show_icons=true&locale=en&layout=compact" alt="efecan035" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=efecan035&show_icons=true&locale=en&layout=compact" alt="efecan035" /></p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
