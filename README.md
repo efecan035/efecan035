@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Efecan AÇAR</h1>
 <h3 align="center">MIS and Web Design-Coding Student from Turkey</h3>
-<h4 align="center">Intern- Turkish Tecnic- Quality and Safety Department
+<h4 align="center">Intern - Turkish Technic - Quality and Safety Department
 
 
 
